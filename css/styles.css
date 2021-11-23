@@ -1,0 +1,199 @@
+/************* TAGS *************/
+
+body {
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+em {
+    color: #E5E4E2;
+    margin-left: 0.5%;
+}
+
+/************* CLASSES ***********/
+
+.carousel-heading {
+    color: #E5E4E2;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    font-weight: bold;
+    
+    margin: 0% 8% 4% 8%;
+}
+
+.card-body p {
+    color: black;    
+}
+
+.carousel-item {
+    padding: 10% 5%;
+}
+
+.carousel-img {
+    height: 7%;
+    width: 10%;
+    border-radius: 100%;
+}
+
+.navbar-button {
+    margin-left: 15px;
+}
+
+.icon {
+    color: #483248;
+}
+
+.icon:hover {
+    color: #6e376a;
+}
+
+.pricing-tagline {
+    font-size: 1.2rem;
+    margin-bottom: 3rem;
+}
+
+.footer-icon {
+    margin: 0 1%;
+}
+
+.pps-code-icons {
+    padding-bottom: 3%;
+}
+
+.button-row {
+    margin: 3% 0% 0% 0%;
+}
+
+.pricing-link {
+    text-decoration: none;
+}
+
+/* Custom Button Styles */
+.neon-snake-btn {
+    margin-top: 10%;
+    margin-left: 5%;
+}
+
+.option-buttons {
+    /* background: none; */
+    background-color: #151515;
+    color: aliceblue;
+    border: 2px solid;  
+    margin: 1rem;
+    padding: 0.75rem 1.75rem;
+    /* Main styling */
+    border-color: #00FF33;
+    transition: border-color 0.25s, transform 0.25s;
+}
+
+.option-buttons:hover {
+    color: #00FFFF;
+    border-color: #00FFFF;
+    box-shadow: 0 0.5em 0.5em -0.4em #00FFFF;
+    transform: translateY(-0.25em);
+}
+
+/************** IDS ************/
+
+/********* Sections *********/
+
+#intro-section {
+    background-color: #151515;
+    padding-bottom: 10%;
+}
+
+#features-section {
+    background-color: #E5E4E2;
+    padding: 8% 3%;
+    text-align: center;
+}
+
+#carousel-section {
+    background-color: #444444;
+    text-align: center;
+}
+
+#pricing-section {
+    text-align: center;
+    padding: 7% 7%;
+}
+
+#pick-poison-section {
+    padding: 6% 5% 8%;
+    text-align: center;
+}
+
+#quiz-section {
+    background-color: #FDFAF6;
+    padding: 6% 15% 6%;
+    text-align: center;
+}
+
+#footer {
+    background-color: #E5E4E2;
+    text-align: center;
+    padding: 2% 0%;
+}
+
+/********* ********/
+
+#features-section h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin-top: 7%; 
+    margin-bottom: 5%;   
+}
+
+#pricing-section h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+#pick-poison-section h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    padding-bottom: 4%;
+}
+
+#quiz-section h2 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+#brand {
+    font-family: 'Teko', sans-serif;
+    font-size: 25px;
+    margin-left: 1%;
+}
+
+#intro-heading {
+    color: white;
+    font-weight: 900;
+    font-size: 2.5rem;
+    line-height: 1.5;
+    margin-top: 15%;
+    margin-left: 4%;
+}
+
+#intro-img {
+    height: 450px;
+    width: 450px;
+    margin-left: 22%;
+    margin-top: 4%;
+}
+
+#landing-content {
+    padding-top: 2%;
+}
+
+#quiz-setup {
+    padding-top: 3%;
+    text-align: left;
+}
+
+#result {
+    padding: 3% 0% 3%;
+}
